@@ -25,4 +25,4 @@ contract SimpleStorage {
 }
 
 // 0xd9145CCE52D386f254917e  481eB44e9943F39138 this is the address of the contract we just deployed. 
-// deploying a contract is sending a translaction on the BC, modifiying it to now contain it. 
+// deploying a contract is sending a translaction on the blockchain, modifiying it to now contain it. 
